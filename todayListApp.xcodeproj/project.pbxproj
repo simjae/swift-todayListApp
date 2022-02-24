@@ -13,6 +13,9 @@
 		52C4E19227C74F86002F7977 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C4E19127C74F86002F7977 /* Preview Assets.xcassets */; };
 		52C4E19427C74F86002F7977 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E19327C74F86002F7977 /* Persistence.swift */; };
 		52C4E19727C74F86002F7977 /* todayListApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E19527C74F86002F7977 /* todayListApp.xcdatamodeld */; };
+		52C4E1A027C74FE4002F7977 /* basicCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E19F27C74FE4002F7977 /* basicCardView.swift */; };
+		52C4E1A227C7501C002F7977 /* cardPack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E1A127C7501C002F7977 /* cardPack.swift */; };
+		52C4E1A627C75060002F7977 /* cardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E1A527C75060002F7977 /* cardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		52C4E19127C74F86002F7977 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52C4E19327C74F86002F7977 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		52C4E19627C74F86002F7977 /* todayListApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = todayListApp.xcdatamodel; sourceTree = "<group>"; };
+		52C4E19F27C74FE4002F7977 /* basicCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = basicCardView.swift; sourceTree = "<group>"; };
+		52C4E1A127C7501C002F7977 /* cardPack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardPack.swift; sourceTree = "<group>"; };
+		52C4E1A527C75060002F7977 /* cardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 			isa = PBXGroup;
 			children = (
 				52C4E18A27C74F84002F7977 /* todayListAppApp.swift */,
+				52C4E19F27C74FE4002F7977 /* basicCardView.swift */,
+				52C4E1A127C7501C002F7977 /* cardPack.swift */,
+				52C4E1A527C75060002F7977 /* cardView.swift */,
 				52C4E18C27C74F84002F7977 /* ContentView.swift */,
 				52C4E18E27C74F86002F7977 /* Assets.xcassets */,
 				52C4E19327C74F86002F7977 /* Persistence.swift */,
@@ -144,6 +153,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				52C4E19427C74F86002F7977 /* Persistence.swift in Sources */,
+				52C4E1A627C75060002F7977 /* cardView.swift in Sources */,
+				52C4E1A027C74FE4002F7977 /* basicCardView.swift in Sources */,
+				52C4E1A227C7501C002F7977 /* cardPack.swift in Sources */,
 				52C4E18D27C74F84002F7977 /* ContentView.swift in Sources */,
 				52C4E18B27C74F84002F7977 /* todayListAppApp.swift in Sources */,
 				52C4E19727C74F86002F7977 /* todayListApp.xcdatamodeld in Sources */,
